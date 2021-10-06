@@ -7,5 +7,6 @@
     "type": "git",
     "url": "git+https://github.com/louis-sanna-eki/npm-workspaces.git"
   },
-  "homepage": "https://github.com/louis-sanna-eki/npm-workspaces#readme"
+  "homepage": "https://github.com/louis-sanna-eki/npm-workspaces#readme",
+  "workspaces": ["packages/*"]
 }

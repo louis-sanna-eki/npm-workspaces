@@ -4,6 +4,7 @@
       "declaration": true,
       "declarationMap": true,
       "sourceMap": true,
+      "composite": true, // this line is needed so it can be used in another workspace.
       "outDir": "dist",
       "rootDir": "src",
     },
