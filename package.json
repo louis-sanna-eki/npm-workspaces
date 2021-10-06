@@ -1,0 +1,11 @@
+{
+  "name": "npm-workspaces",
+  "version": "1.0.0",
+  "description": "Test npm 7.0 workspaces",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louis-sanna-eki/npm-workspaces.git"
+  },
+  "homepage": "https://github.com/louis-sanna-eki/npm-workspaces#readme"
+}
